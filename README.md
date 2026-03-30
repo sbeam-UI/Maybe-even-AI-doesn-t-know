@@ -1,2 +1,2 @@
 # Maybe-even-AI-doesn-t-know
-瞎弄的小玩意
+使用python里woodAI库写的AI
